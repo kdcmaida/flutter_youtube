@@ -1,0 +1,3 @@
+final String HOME_SCREEN="/HOME_SCREEN";
+final String SPLASH_SCREEN="/SPLASH_SCREEN";
+final String PLAYER_SCREEN="/PLAYER_SCREEN";
